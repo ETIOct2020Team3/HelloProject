@@ -7,4 +7,4 @@ memberList = ['Harith','John','Hannanis','Guhesh']
 
 print('Let\'s all get AD for ETI')
 
-roles = ['Developer','QA','Scrum Master','Developer']
+roles = ['Developer','Developer','Scrum Master','QA']
